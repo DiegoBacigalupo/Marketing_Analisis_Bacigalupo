@@ -8,11 +8,11 @@ El objetivo principal es construir una solución predictiva robusta que permita 
 
 Este repositorio no solo presenta el modelo final, sino también un **proceso completo de análisis de datos**, desde la exploración inicial hasta la preparación de variables, asegurando una comprensión profunda de los factores que impulsan la decisión del cliente.
 
-## Resumen para Reclutadores
+
 
 Este proyecto demuestra mis habilidades en **Machine Learning, análisis de datos y desarrollo de soluciones predictivas aplicadas a problemas de negocio reales.** He diseñado e implementado un modelo de **Árbol de Decisión** por su capacidad para manejar datos heterogéneos y, fundamentalmente, por su **alta interpretabilidad**, una cualidad clave para la toma de decisiones estratégicas en el sector financiero.
 
-**Puntos Clave para el Reclutador:**
+**Puntos Clave:**
 
 * **Impacto de Negocio:** Este modelo no es solo un ejercicio técnico; es una herramienta diseñada para **mejorar la rentabilidad y eficiencia** en campañas de marketing bancario.
 * **Habilidades Técnicas:** Demuestra competencia en la manipulación y preparación de datos (Pandas), así como la aplicación de algoritmos de Machine Learning para clasificación.
